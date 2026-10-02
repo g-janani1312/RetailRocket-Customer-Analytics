@@ -492,23 +492,23 @@ The project covers the following major business analytics areas:
 
 ## Overview
 
-![Overview](Power BI Screenshots/Overview.png)
+![Overview](PowerBI_Screenshots/Overview.png)
 
 ## Category Analysis
 
-![Category Analysis](Power BI Screenshots/Category Analysis.png)
+![Category Analysis](PowerBI_Screenshots/Category_Analysis.png)
 
 ## Time Analysis
 
-![Time Analysis](Power BI Screenshots/Time Analysis.png)
+![Time Analysis](PowerBI_Screenshots/Time_Analysis.png)
 
 ## User Segmentation
 
-![User Segmentation](Power BI Screenshots/User Segmentation.png)
+![User Segmentation](PowerBI_Screenshots/User_Segmentation.png)
 
 ## Cohort Analysis
 
-![Cohort Analysis](Power BI Screenshots/Cohort Analysis.png)
+![Cohort Analysis](PowerBI_Screenshots/Cohort_Analysis.png)
 
 ---
 
